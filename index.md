@@ -31,11 +31,11 @@ Was Ihr benötigt:
 2. Funktionierendes Headset
 3. Mindest Alter 16+
 
-![Image](https://cdn.discordapp.com/attachments/942122319055294524/942436124880691230/Logo.png)
-
 ```
 
 ### Kontakt
 
 Du hast fragen und mit Spielen dann komm einfach auf unser [Discord](https://discord.com/invite/N7yvrbJzFn).
 Gehe dort auf # Regelwerk und lese dir dort den Kanal durch, wenn du dies Erledigt hast Klicke anschließend auf ✅ und Frage oder Bewerbe dich. Los Jeder ist willkommen!
+
+![Image](https://cdn.discordapp.com/attachments/942122319055294524/942436124880691230/Logo.png)
