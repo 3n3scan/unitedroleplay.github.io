@@ -1,10 +1,12 @@
 ## Willkommen auf United Roleplay
 
-```markdown
-Informationen:
+### Informationen:
 
 Wir sind United Roleplay, ein deutscher GTA V Server auf der PS4.
 Das Team gibt sich mühe ein realistisches Roleplay zu bieten, zwar nicht mit mods wie auf dem PC aber mit Discord findet dies schon einfacher statt.
+
+```markdown
+Server Details
 
 Wir bieten ihnen:
 
@@ -29,9 +31,9 @@ Was Ihr benötigt:
 2. Funktionierendes Headset
 3. Mindest Alter 16+
 
-```
-
 ![Image](https://cdn.discordapp.com/attachments/942122319055294524/942436124880691230/Logo.png)
+
+```
 
 ### Kontakt
 
