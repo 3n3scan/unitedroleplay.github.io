@@ -1,38 +1,39 @@
 ## Willkommen auf United Roleplay
 
-You can use the [editor on GitHub](https://github.com/3n3scan/unitedroleplay.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
-Syntax highlighted code block
+Informationen:
 
-# Header 1
-## Header 2
-### Header 3
+Wir sind United Roleplay, ein deutscher GTA V Server auf der PS4.
+Das Team gibt sich mühe ein realistisches Roleplay zu bieten, zwar nicht mit mods wie auf dem PC aber mit Discord findet dies schon einfacher statt.
 
-- Bulleted
-- List
+Wir bieten ihnen:
 
-1. Numbered
-2. List
+- einen Hardcore Roleplay Server auf den Plattformen PS4 & PS5
+- Umfangreiches System (Jobs, Farming, Banking)
+- Startgeld
+- Startfahrzeug
+- Autohändler / Immobilienhändler uvm.
+- Gründung einer Firma / Unternehmen
+- Illegale Möglichkeiten
+- Kriminelle Organisationen
+- Events (Fraktion Events / Bürger Events)
 
-**Bold** and _Italic_ and `Code` text
+Was wir Suchen:
 
-[Link](url) and ![Image](src)
+- Spieler beim LSPD
+- Spieler beim Medic
+
+Was Ihr benötigt:
+
+1. Discord
+2. Funktionierendes Headset
+3. Mindest Alter 16+
+
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/3n3scan/unitedroleplay.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![Image](https://cdn.discordapp.com/attachments/942122319055294524/942436124880691230/Logo.png)
 
 ### Kontakt
 
-Du hast fragen und mit Spielen dann komm einfach auf unser [Discord](disord.gg/N7yvrbJzFn).
+Du hast fragen und mit Spielen dann komm einfach auf unser [Discord](https://discord.com/invite/N7yvrbJzFn).
 Gehe dort auf # Regelwerk und lese dir dort den Kanal durch, wenn du dies Erledigt hast Klicke anschließend auf ✅ und Frage oder Bewerbe dich. Los Jeder ist willkommen!
